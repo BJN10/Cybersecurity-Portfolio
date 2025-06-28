@@ -36,8 +36,7 @@ I'm currently completing the **Google Cybersecurity Certificate** and documentin
 ## 📫 Contact
 
 - GitHub: [@BJN1O](https://github.com/BJN1O)
-- LinkedIn: (Add your LinkedIn here!)
-- Email: (Add optional professional email here)
+- Email: ranjitbijayan@gmail.com
 
 ---
 
