@@ -1,0 +1,22 @@
+# CIA Triad
+
+The **CIA Triad** is the core security model used to guide cybersecurity policies.
+
+## Confidentiality
+Only authorized users should have access to data.
+
+## Integrity
+Data must be accurate and protected from tampering.
+
+## Availability
+Systems and data must be accessible when needed.
+
+### Real-Life Example:
+- **C**: Using encryption to protect login credentials
+- **I**: Validating file hashes to detect tampering
+- **A**: Implementing backups to prevent downtime
+
+---
+
+**Created by:** Bijayan Ranjit  
+**Part of:** Google Cybersecurity Certificate - Course 1
